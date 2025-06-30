@@ -20,6 +20,7 @@
 - 🔭 Currently working on: **"Islamic Book**
 - 🌱 Learning: **Java**, **Flutter**, and **Python**
 - 📝 Writing regularly at: [itsmujahid.com](https://www.itsmujahid.com)
+- 📝 My Personal website is : [Developermujahid.com](https://www.developermujahid.com)
 - 💬 Ask me about: **Android Development, Flutter, WordPress**
 - 📫 Reach me at: **help@itsmujahid.com**
 
